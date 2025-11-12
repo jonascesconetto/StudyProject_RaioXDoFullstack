@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "fd280bd5fbd30b0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8829daf3c0c3bf19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d12436215e1214eb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Desenhos/10-como-regras-sao-organizadas-03.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "10-como-regras-sao-organizadas-03"
+            }
+          },
+          {
+            "id": "99e2cb0a0a920a6e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Desenhos/10-como-regras-sao-organizadas-03.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "10-como-regras-sao-organizadas-03"
+            }
+          },
+          {
+            "id": "31c58fdc085bed34",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Desenhos/12-fluxo-backend.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "12-fluxo-backend"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e22f7b271cbd38a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "be24831e68ca638b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75eb1114bfc5b1a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "a5e1fa537ba7cdfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "8990e311be41d44c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.50271224975586,
+    "collapsed": true
+  },
+  "right": {
+    "id": "cca7eace1a85597e",
+    "type": "split",
+    "children": [
+      {
+        "id": "799b44b32a09f660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e18da931a03f73f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Desenhos/12-fluxo-backend.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 12-fluxo-backend"
+            }
+          },
+          {
+            "id": "ec90e986f2e49bbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Desenhos/12-fluxo-backend.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 12-fluxo-backend"
+            }
+          },
+          {
+            "id": "0f48b7a5526529ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5b0e4f974ff25f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Desenhos/12-fluxo-backend.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 12-fluxo-backend"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "31c58fdc085bed34",
+  "lastOpenFiles": [
+    "Desenhos/10-como-regras-sao-organizadas-03.md",
+    "Desenhos/12-fluxo-backend.md",
+    "Desenhos/09-poo-na-pratica.md",
+    "Desenhos/11-modelo-rico-vs-app.md",
+    "Desenhos/08-como-regras-sao-organizadas-02.md",
+    "Desenhos/07-como-regras-sao-organizadas-01.md",
+    "Desenhos/03-conceitos-essenciais.md",
+    "Desenhos/06-limite-arq-mais-importante.md",
+    "Desenhos/05-limites-arq-padrao.md",
+    "Desenhos/04-evolucao-arquitetura.md",
+    "Desenhos/01-base.md",
+    "Desenhos/02-analogia-computador.md",
+    "Desenhos/Drawing 2025-11-07 12.02.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-07 12.00.25.excalidraw.md",
+    "Desenhos",
+    "Drawing 2025-11-07 11.59.14.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Invert colors.svg",
+    "Excalidraw/Scripts/Downloaded/Invert colors.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw"
+  ]
+}
